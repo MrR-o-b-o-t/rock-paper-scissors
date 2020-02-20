@@ -1,0 +1,41 @@
+header {
+	text-align: center;
+	margin-top: 50px;
+	font-family: 'Roboto';
+	font-size: 30px;
+	font-weight: bold;
+}
+
+h4 {
+	text-align: center;
+	margin: 100px 0 60px 0;
+	font-family: 'Roboto';
+}
+
+.images {
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+}
+
+.images > button {
+	margin-right: 30px;
+	-ms-transition: 0.6s ease-in-out;
+	-webkit-transition: 0.6s ease-in-out;
+	transition: 0.6s ease-in-out;
+}
+
+.images > button:hover {
+	margin-right: 30px;
+	border: 2px solid green;
+	-ms-transform: rotate(360deg); /* IE 9 */
+	-webkit-transform: rotate(360deg); /* Chrome, Safari, Opera */
+	transform: rotate(360deg);
+}
+
+.images img {
+	max-width: 100px;
+	max-height: 100px;
+	display: inline-block;
+	margin: 10px 30px 0 30px;
+}
