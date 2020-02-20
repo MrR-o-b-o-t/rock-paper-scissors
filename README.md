@@ -6,7 +6,7 @@ _A Rock Paper Scissors game that allows a user to choose rock, paper, or scissor
 After the choices are compared and the winner displayed to the screen._
 
 <br>
-See it [here] https://web-dev-jr.github.io/rock-paper-scissors/
+See it [here](https://web-dev-jr.github.io/rock-paper-scissors/)
 <br>
 <br>
 <image src="images/readme-pic.PNG">
