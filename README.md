@@ -17,7 +17,7 @@ As I continue to work on a deeper understanding of JavaScript I have put togethe
 These apps are all built without any tutorials, only occasional guidance from mentors and colleagues on very specific tasks when needed. This gives me the oppurtunity
 to really dive into what is going on behind the scenes and gain a better understanding of JavaScript as a whole. 
 This game takes a user input by collecting the id of a clicked image, compares that to the computers randomly generated choice, and then displays the
-results to the screen. The user can play as many times as they likes. Give it a try above! I will warn you though, JavaScript plays a mean
+results to the screen. The user can play as many times as they like. Give it a try above! I will warn you though, JavaScript plays a mean
 game of Rock Paper Scissors!
 
 ## Author
